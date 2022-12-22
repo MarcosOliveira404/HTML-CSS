@@ -3,4 +3,4 @@
  Aprendendo a desenvolver sites para web
 
 
-<a href="http://marcosoliveira404.github.io/HTML-CSS/00-index/index.html">Efeito paralax</a>
+<a href="http://marcosoliveira404.github.io/HTML-CSS/00-index/index.html">Veja os progetos</a>
