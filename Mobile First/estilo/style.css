@@ -1,0 +1,48 @@
+@charset "UFT-8";
+
+/* Mobile First */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    margin: 0px;
+    padding: 0px;
+    box-sizing:  border-box;
+}
+
+html{
+    height: 100vh;
+}
+
+body{
+    background: black url(../img/fundo-celular.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+main{
+    background-color: rgba(240, 248, 255, 0.226);
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 1px 2px 2px black;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+img#phone{ display: block; }
+img#tablet{ display: none; }
+img#impressora{ display: none; }
+img#pc{ display: none; }
+img#tv{ display: none; }
