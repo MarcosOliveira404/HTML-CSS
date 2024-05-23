@@ -1,5 +1,5 @@
 # HTML-CSS
- Exemplos de HTML e CSS
+ Exemplos de Media Query
  Aprendendo a desenvolver sites para web
 
 
